@@ -234,7 +234,7 @@ methods: {
 Vue.config.keyCodes.f1 = 112
 ```
 
-## 按键修饰符
+## 新增的按键修饰符
 
 > 2.1.0 新增
 
